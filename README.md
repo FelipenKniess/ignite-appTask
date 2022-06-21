@@ -1,6 +1,6 @@
 ## 🎯 Sobre
 <p>
-  App controlar atividades
+  App para controlar atividades
 </p>
 
 ## :eyes: Layout
